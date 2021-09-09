@@ -3,6 +3,8 @@
   MIT Licence
 */
 
+//kouhei modefiied
+
 #include <stdio.h>
 #include "pico/stdlib.h"
 #include "hardware/uart.h"
